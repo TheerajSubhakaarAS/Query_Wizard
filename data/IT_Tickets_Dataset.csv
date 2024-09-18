@@ -1,0 +1,101 @@
+TicketID,DateOpened,IssueType,Priority,AssignedTo,Status,DateClosed,Department,Description
+1,08-01-2024,Software Bug,Low,Michael Lee,In Progress,02-02-2024,HR,Unable to log into system
+2,27-05-2024,Network Problem,Low,Michael Lee,Closed,,Marketing,Printer not working
+3,14-03-2024,Software Bug,High,Michael Lee,Closed,,IT Support,Unable to access database
+4,14-02-2024,Software Installation,Medium,Jane Smith,In Progress,,Finance,Need new software installed
+5,05-05-2024,Account Locked,High,Sarah Chen,In Progress,25-03-2024,HR,Printer not working
+6,15-08-2024,Hardware Issue,Medium,Sarah Chen,Open,,IT Support,Printer not working
+7,11-03-2024,Network Problem,Medium,Michael Lee,In Progress,10-06-2024,Marketing,Wi-Fi connection unstable
+8,06-08-2024,Software Installation,Low,Jane Smith,Closed,13-02-2024,Marketing,Wi-Fi connection unstable
+9,31-08-2024,Network Problem,High,John Doe,In Progress,,Finance,Unable to log into system
+10,25-03-2024,Network Problem,High,Michael Lee,Open,30-04-2024,HR,Printer not working
+11,27-07-2024,Software Installation,Low,Sarah Chen,Open,19-08-2024,Finance,Need new software installed
+12,04-07-2024,Network Problem,Low,Sarah Chen,In Progress,21-07-2024,IT Support,Unable to access database
+13,10-01-2024,Software Installation,Low,Michael Lee,Closed,,Marketing,Wi-Fi connection unstable
+14,18-05-2024,Hardware Issue,Low,Michael Lee,Open,,Finance,Unable to access database
+15,09-07-2024,Software Bug,Low,Sarah Chen,Open,,Marketing,Need new software installed
+16,15-03-2024,Hardware Issue,Low,Jane Smith,Closed,04-03-2024,Finance,Unable to access database
+17,16-03-2024,Software Installation,Medium,Michael Lee,Closed,,IT Support,Printer not working
+18,23-05-2024,Software Installation,High,Jane Smith,Closed,28-02-2024,IT Support,Printer not working
+19,16-08-2024,Software Installation,Medium,Michael Lee,In Progress,,Marketing,Need new software installed
+20,20-04-2024,Software Bug,Medium,John Doe,Closed,,IT Support,Printer not working
+21,29-01-2024,Hardware Issue,Low,Michael Lee,In Progress,,HR,Unable to log into system
+22,21-07-2024,Account Locked,Medium,Michael Lee,In Progress,,IT Support,Printer not working
+23,27-02-2024,Network Problem,Low,John Doe,Closed,17-05-2024,IT Support,Unable to access database
+24,12-03-2024,Network Problem,Low,Jane Smith,Closed,24-07-2024,Marketing,Wi-Fi connection unstable
+25,16-08-2024,Software Bug,Low,Michael Lee,Open,,IT Support,Unable to access database
+26,08-03-2024,Hardware Issue,High,Sarah Chen,Open,03-04-2024,HR,Wi-Fi connection unstable
+27,01-01-2024,Network Problem,High,Jane Smith,Closed,,IT Support,Wi-Fi connection unstable
+28,16-01-2024,Software Installation,High,John Doe,Closed,,HR,Wi-Fi connection unstable
+29,13-02-2024,Hardware Issue,Low,Sarah Chen,Open,,HR,Unable to access database
+30,13-03-2024,Hardware Issue,Medium,Michael Lee,Closed,,IT Support,Printer not working
+31,13-04-2024,Software Bug,High,Sarah Chen,Closed,,HR,Unable to log into system
+32,21-06-2024,Hardware Issue,High,Jane Smith,In Progress,11-06-2024,Finance,Unable to log into system
+33,04-01-2024,Network Problem,Low,Michael Lee,Closed,04-09-2024,HR,Unable to log into system
+34,17-02-2024,Hardware Issue,High,Jane Smith,Closed,09-09-2024,IT Support,Need new software installed
+35,18-02-2024,Hardware Issue,Medium,Michael Lee,In Progress,08-02-2024,Finance,Need new software installed
+36,08-07-2024,Software Bug,Low,Sarah Chen,In Progress,,IT Support,Need new software installed
+37,18-02-2024,Network Problem,High,John Doe,In Progress,,Finance,Need new software installed
+38,19-02-2024,Software Installation,Low,Sarah Chen,Open,,Marketing,Printer not working
+39,26-03-2024,Software Installation,High,Jane Smith,In Progress,14-09-2024,HR,Unable to access database
+40,21-02-2024,Hardware Issue,Low,Jane Smith,Closed,,HR,Unable to access database
+41,09-04-2024,Hardware Issue,High,Jane Smith,Closed,04-03-2024,IT Support,Unable to log into system
+42,13-02-2024,Account Locked,Low,John Doe,Closed,,HR,Unable to access database
+43,21-07-2024,Network Problem,Low,Michael Lee,Open,,IT Support,Need new software installed
+44,08-07-2024,Network Problem,Medium,Michael Lee,Closed,,HR,Need new software installed
+45,14-06-2024,Network Problem,Medium,Sarah Chen,Closed,,Marketing,Printer not working
+46,01-01-2024,Software Installation,High,John Doe,In Progress,,IT Support,Unable to log into system
+47,30-04-2024,Software Installation,Low,Sarah Chen,In Progress,,Finance,Wi-Fi connection unstable
+48,25-05-2024,Software Installation,Medium,Jane Smith,Open,,Marketing,Printer not working
+49,16-06-2024,Network Problem,Medium,John Doe,Open,,IT Support,Unable to log into system
+50,01-02-2024,Software Installation,High,Michael Lee,Closed,,Marketing,Printer not working
+51,02-01-2024,Hardware Issue,Medium,Michael Lee,Closed,,IT Support,Wi-Fi connection unstable
+52,27-04-2024,Hardware Issue,Medium,Michael Lee,Open,,Finance,Wi-Fi connection unstable
+53,24-07-2024,Network Problem,Low,Sarah Chen,Closed,,Finance,Wi-Fi connection unstable
+54,14-06-2024,Hardware Issue,Low,Michael Lee,Open,,Marketing,Wi-Fi connection unstable
+55,07-03-2024,Network Problem,Medium,John Doe,In Progress,19-03-2024,HR,Unable to log into system
+56,31-03-2024,Account Locked,High,Sarah Chen,Closed,,IT Support,Unable to access database
+57,25-02-2024,Software Installation,Low,Sarah Chen,In Progress,26-04-2024,HR,Wi-Fi connection unstable
+58,19-02-2024,Network Problem,High,Jane Smith,Open,,Marketing,Unable to log into system
+59,05-04-2024,Hardware Issue,Medium,Sarah Chen,Closed,,HR,Printer not working
+60,30-01-2024,Account Locked,Low,Jane Smith,Open,,Marketing,Unable to access database
+61,24-01-2024,Software Bug,Low,Michael Lee,In Progress,,IT Support,Unable to access database
+62,20-08-2024,Software Installation,High,Michael Lee,Open,,HR,Unable to access database
+63,16-05-2024,Account Locked,High,Sarah Chen,Closed,28-04-2024,Finance,Printer not working
+64,16-03-2024,Hardware Issue,Medium,Michael Lee,Open,,Finance,Printer not working
+65,09-08-2024,Software Bug,Medium,Michael Lee,Closed,05-04-2024,HR,Need new software installed
+66,23-08-2024,Software Installation,Low,John Doe,Closed,,IT Support,Need new software installed
+67,22-03-2024,Software Installation,Low,Jane Smith,Open,05-06-2024,HR,Wi-Fi connection unstable
+68,31-01-2024,Account Locked,Low,Sarah Chen,In Progress,08-04-2024,IT Support,Wi-Fi connection unstable
+69,27-06-2024,Software Bug,High,Sarah Chen,Open,19-06-2024,Finance,Need new software installed
+70,19-01-2024,Hardware Issue,Medium,Jane Smith,Closed,,IT Support,Unable to log into system
+71,09-04-2024,Network Problem,Medium,Michael Lee,Open,,Marketing,Unable to access database
+72,03-03-2024,Account Locked,High,Michael Lee,In Progress,,Marketing,Unable to access database
+73,05-03-2024,Hardware Issue,High,Sarah Chen,Closed,28-06-2024,Finance,Wi-Fi connection unstable
+74,06-04-2024,Software Installation,High,John Doe,Closed,,IT Support,Need new software installed
+75,18-01-2024,Software Installation,Medium,Sarah Chen,In Progress,,HR,Unable to log into system
+76,13-03-2024,Network Problem,Medium,John Doe,Closed,06-03-2024,Marketing,Wi-Fi connection unstable
+77,23-03-2024,Hardware Issue,Low,John Doe,Closed,,IT Support,Need new software installed
+78,06-07-2024,Software Installation,Medium,John Doe,In Progress,,Marketing,Unable to log into system
+79,02-02-2024,Network Problem,Medium,Jane Smith,Open,,HR,Need new software installed
+80,08-03-2024,Account Locked,High,Jane Smith,Open,,IT Support,Need new software installed
+81,31-01-2024,Network Problem,Medium,John Doe,Closed,,IT Support,Unable to log into system
+82,11-02-2024,Network Problem,Low,Sarah Chen,Closed,09-03-2024,IT Support,Unable to log into system
+83,24-08-2024,Software Installation,Medium,Jane Smith,Closed,,HR,Printer not working
+84,26-05-2024,Hardware Issue,Low,Michael Lee,In Progress,12-07-2024,HR,Printer not working
+85,23-08-2024,Network Problem,Low,Jane Smith,Open,,IT Support,Unable to log into system
+86,03-03-2024,Software Bug,Low,Jane Smith,In Progress,,Marketing,Unable to log into system
+87,15-01-2024,Network Problem,Medium,Jane Smith,Closed,,Finance,Unable to log into system
+88,19-04-2024,Hardware Issue,Medium,Sarah Chen,Closed,,IT Support,Unable to log into system
+89,24-06-2024,Hardware Issue,Low,Michael Lee,Closed,,Finance,Unable to log into system
+90,07-06-2024,Network Problem,Low,Jane Smith,Open,,IT Support,Need new software installed
+91,06-01-2024,Account Locked,High,Jane Smith,Open,15-05-2024,IT Support,Unable to log into system
+92,19-01-2024,Hardware Issue,Medium,Michael Lee,Closed,,IT Support,Need new software installed
+93,06-04-2024,Account Locked,Medium,Sarah Chen,Open,19-02-2024,Finance,Need new software installed
+94,06-02-2024,Account Locked,High,Michael Lee,Closed,,HR,Need new software installed
+95,20-06-2024,Software Bug,Medium,John Doe,Open,17-02-2024,Marketing,Unable to log into system
+96,20-01-2024,Account Locked,Low,John Doe,In Progress,04-04-2024,Marketing,Printer not working
+97,12-09-2024,Software Bug,Low,John Doe,In Progress,,Finance,Need new software installed
+98,01-07-2024,Account Locked,Low,Sarah Chen,Open,,HR,Need new software installed
+99,09-08-2024,Software Bug,Medium,Michael Lee,Open,,HR,Unable to access database
+100,26-03-2024,Hardware Issue,Low,Jane Smith,Open,05-06-2024,Finance,Wi-Fi connection unstable
