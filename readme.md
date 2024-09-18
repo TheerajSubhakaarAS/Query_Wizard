@@ -16,7 +16,7 @@ Here’s the structure of the `nl_ticket_filter` project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/nl_ticket_filter.git
+[git clone https://github.com/your-repo/nl_ticket_filter.git](https://github.com/TheerajSubhakaarAS/Query_Wizard.git)
 cd nl_ticket_filter
 ```
 ### 2. Create a Virtual Environment
