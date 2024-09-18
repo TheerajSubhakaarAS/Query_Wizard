@@ -8,7 +8,7 @@
 
 Here’s the structure of the `nl_ticket_filter` project:
 
-![Alt text](C:/Users/Theeraj/Desktop/sp/nl_ticket_filter/data/asset/structure.jpg")
+![Alt text]("https://github.com/TheerajSubhakaarAS/Query_Wizard/blob/main/data/asset/structure.jpg")
 
 
 ## Setup and Installation
